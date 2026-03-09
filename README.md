@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Born in 2002, terrorizing company repos since 2024<br>📚 I'm currently learning Rust and raw JavaScript<br>🎯 Goals: I want to take a picture of myself with an Indonesian Babirusa (oh... you meant in the programming world?<br>🎲 Fun fact: I've been made to publish projects with more artificial than real data.</p>
+<p align="left">✨ Born in 2002, terrorizing company repos since 2024<br>📚 I'm currently learning Rust and raw JavaScript<br>🎯 Goals: I want to take a picture of myself with an Indonesian Babirusa (oh... you meant in the programming world?)<br>🎲 Fun fact: I've been made to publish projects with more artificial than real data.</p>
 
 ###
 
